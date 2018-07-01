@@ -6,8 +6,6 @@
 
 ## Examples
 
-----------------
-
 #### The touchbar helps fill in email domains in an email required field ✉️
 ![img](https://i.imgur.com/ynpvgq2.gif)
 
@@ -30,11 +28,11 @@
 ![img](https://i.imgur.com/NXydYJQ.gif)
 
 • The list of features the touchbar will contain can be determined by the developer for every text field.
-(Note: the sound HUD shown is another cool project I worked on, you can check it out from [here]((https://github.com/EMUR/eVolumeBar) :))
+(Note: the sound HUD shown is another cool project I worked on, you can check it out from ![here]((https://github.com/EMUR/eVolumeBar) :))
 
 ----------------
 
-#### You can also type numbers without sacrificing those alphabets 😛!!
+#### You can also type numbers without losing those alphabets 😛!!
 ![img](https://i.imgur.com/XMrhYi7.gif)
 
 
