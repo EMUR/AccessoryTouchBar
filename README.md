@@ -1,5 +1,8 @@
 # AccessoryTouchBar
-![logo](https://i.imgur.com/a6u2aNS.png)
+
+<p align="center"> 
+<img src="https://i.imgur.com/a6u2aNS.png">
+</p>
 
 ## Usage
 • Add the [AccessoryTouchBar.swift](https://github.com/EMUR/eVolumeBar/blob/master/Source/eVolumeBar.swift) source file to your xcode project and add the AccessoryTouchBar view to your existing views. 
