@@ -5,7 +5,7 @@
 </p>
 
 ## Usage
-• Add the [AccessoryTouchBar.swift](https://github.com/EMUR/AccessoryTouchBar/blob/master/Source/eVolumeBar.swift) source file to your xcode project and add the AccessoryTouchBar view to your existing views. 
+• Add the [AccessoryTouchBar.swift](https://github.com/EMUR/AccessoryTouchBar/blob/master/Source/AccessoryTouchBar.swift) source file to your xcode project and add the AccessoryTouchBar view to your existing views. 
 
 ## Examples
 
