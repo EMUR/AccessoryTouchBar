@@ -27,13 +27,19 @@
 ----------------
 
 #### You can even modify your system sound, and display brightness 🔈🔅! 
-• The list of features the touchbar will hold can be determined by the developer for every text field.
+![img](https://i.imgur.com/NXydYJQ.gif)
+
+• The list of features the touchbar will contain can be determined by the developer for every text field.
 (Note: the sound HUD shown is another cool project I worked on, you can check it out from [here]((https://github.com/EMUR/eVolumeBar) :))
-![img](https://i.imgur.com/ILh3mci.gif)
 
 ----------------
 
 #### You can also type numbers without sacrificing those alphabets 😛!!
 ![img](https://i.imgur.com/XMrhYi7.gif)
 
-----------------
+
+## Author
+Eyad Murshid, eam.east@gmail.com
+
+## License
+AccessoryTouchBar is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/EMUR/AccessoryTouchBar/blob/master/LICENSE) file.
