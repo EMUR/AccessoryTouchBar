@@ -33,7 +33,7 @@
 • The list of features the touchbar will contain can be determined by the developer for every text field.
 
 (Note: the sound HUD shown is another cool project I worked on, you can check it out from 
-![here](https://github.com/EMUR/eVolumeBar) :))
+[here](https://github.com/EMUR/eVolumeBar) :))
 
 ----------------
 
