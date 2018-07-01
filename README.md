@@ -19,7 +19,7 @@
 #### The touchbar can enhance your writing speed! 💪 (to go back to main menu, you simply swipe down anywhere along the bar)
 ![img](https://i.imgur.com/ILh3mci.gif)
 
-• Another way you can head back to main menu is through forcely scrolling to the left)
+• Another way you can head back to main menu is through forcibly scrolling to the right!)
 ![img](https://i.imgur.com/DO4AOaX.gif)
 
 ----------------
