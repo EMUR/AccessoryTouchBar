@@ -1,3 +1,11 @@
+
+# Update
+<p align="center"> 
+<img src="https://i.imgur.com/0uGtd2h.png" width="500px"/>
+</p>
+
+Please check the updated [AccessoryTouchBar swift package](https://github.com/EMUR/AccessoryTouchBarPackage)
+
 # AccessoryTouchBar
 
 <p align="center"> 
